@@ -1,5 +1,5 @@
 #define FN_CELLULAR_INDEX_MAX 3
-#define FN_USE_DOUBLES
+//#define FN_USE_DOUBLES
 
 #ifdef FN_USE_DOUBLES
 typedef double FN_DECIMAL;
